@@ -23,3 +23,10 @@
 - MODEL1 아키텍처 사용
 
 ## 5. 구현 동작
+![1](https://user-images.githubusercontent.com/85435343/231026812-09c6f33e-a8c2-4f2c-8ac0-3f940901ef84.PNG)  
+
+![2](https://user-images.githubusercontent.com/85435343/231026816-e98eec7f-8903-493c-ae8e-7f4d175779b4.PNG)  
+
+![3](https://user-images.githubusercontent.com/85435343/231026818-873ce732-6b20-4aef-9641-6c0b5bc0ef28.PNG)   
+
+![4](https://user-images.githubusercontent.com/85435343/231026819-05ddb083-f545-4750-bb91-507d945a03fb.PNG)   
